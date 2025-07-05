@@ -7,9 +7,13 @@
 This repository contains a Google Colab notebook (google_colab_main.ipynb) for analyzing and visualizing company financial condition. The notebook includes data processing and visualization components, with a focus on financial metrics.
 
 **Features**
+
 ✅ Data visualization using Matplotlib
+
 ✅ Interactive plots for financial analysis
+
 ✅ Integration with Google Colab environment
+
 ✅ Example code for financial data processing
 
 **Usage**

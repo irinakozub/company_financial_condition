@@ -34,13 +34,17 @@ The notebook demonstrates:
 3. Basic data analysis techniques
 
 **Contributing**
+
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
 💰 **Support**
+
 If this project is helpful for your business, support us:
-Toncoin (TON):
-UQA_KkI02UIeLx8pOEtXcEcpKq0cZBgfDdB-wk1iWZ-WMbLg
+
+Toncoin (TON): UQA_KkI02UIeLx8pOEtXcEcpKq0cZBgfDdB-wk1iWZ-WMbLg
 
 📮 **Contacts**
+
 Bugs: [issues](https://github.com/irinakozub/company_financial_condition/issues)
+
 Commercial requests: stf-2259@ya.ru
